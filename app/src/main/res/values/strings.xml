@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">News of the World</string>
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+    <string name="topics">Topics</string>
+    <string name="all">All</string>
+    <string name="countries">Countries</string>
+    <string name="languages">Languages</string>
+    <string name="clear_all">Clear All</string>
+    <string name="todo">TODO</string>
+    <string name="no_news_availabel">No, News Available</string>
+</resources>
