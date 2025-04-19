@@ -42,3 +42,9 @@ You can download the APK file for testing from the release below:
 <br>
 
 ## Screenshots
+- **HomeActivity**
+
+
+
+![3](https://github.com/user-attachments/assets/684db1a2-2f52-474e-b399-6d07949e6815)
+
