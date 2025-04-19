@@ -43,8 +43,26 @@ You can download the APK file for testing from the release below:
 
 ## Screenshots
 - **HomeActivity**
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/20f47116-fd1e-49ef-854d-f0a89823ff0d" alt="Home" width="336" height="748"/>
+</div>
+<br>
 
+- **Drawer Layout**
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ad161f8c-1a07-4fdb-b23b-e3934e32adb9" alt="Home" width="336" height="748"/>
+</div>
+<br>
 
+- **Dynamic Menus**
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/684db1a2-2f52-474e-b399-6d07949e6815" alt="Home" width="336" height="748"/>
+</div>
+<br>
 
-![3](https://github.com/user-attachments/assets/684db1a2-2f52-474e-b399-6d07949e6815)
+- **Navigate Brower:** When click occur on news post
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0f827490-a0c9-44b3-af53-04e25def55d6" alt="Home" width="336" height="748"/>
+</div>
+
 
