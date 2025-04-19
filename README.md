@@ -21,16 +21,19 @@ NewsApp is a mobile application that brings you the latest news articles from va
 - **Volley**: To handle HTTP requests to the NewsAPI.
 - **Dynamic Menus**: Based on the fetched data from the NewsAPI, topics, countries, and languages are displayed dynamically.
 
-## Authentication
-
-The application uses the NewsAPI to fetch news sources and articles. Below are the key API endpoints:
-
-1. **How to Set Your API KEY**
+## Setup
+**How to Set Your API KEY**
    - Visit [NewsAPI.org](https://newsapi.org/) to register and get your API key. 
-   - Replace "your api key goes here" in the  with your actual API key
+   - Replace "your api key goes here" in the [ArticlesAPI.java](app/src/main/java/com/example/newsoftheworld/API/ArticlesAPI.java) with your actual API key.
 
 ```bash
-
+public class ArticlesAPI {
+    public static final String API_KEY = "your api key goes here";
 ```
+## Usage
+- **News Source Selection:** Open the navigation drawer and select a news source (e.g., CNN, BBC).
+- **Apply Filters:** Use the menu options to filter news by topic, country, or language.
+- **Article Navigation:** Swipe right to go to the next article, left to go back.
+- **Read Full Article:** Tap on the article title or image to open the full article on the source’s website.
 
 ## Screenshots
