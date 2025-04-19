@@ -36,4 +36,9 @@ public class ArticlesAPI {
 - **Article Navigation:** Swipe right to go to the next article, left to go back.
 - **Read Full Article:** Tap on the article title or image to open the full article on the source’s website.
 
+## Download APK for Testing
+You can download the APK file for testing from the release below:
+- [Download v1.0 Testing APK]()
+<br>
+
 ## Screenshots
