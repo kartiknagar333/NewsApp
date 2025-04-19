@@ -14,7 +14,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class ArticlesAPI {
-    public static final String API_KEY = "447f216f1d1c4ca0a9db72e971cba234";
+    public static final String API_KEY = ""; // Set Your API KEY here
     private static final String ARTICLE = "https://newsapi.org/v2/top-headlines";
     private final Context context;
 
