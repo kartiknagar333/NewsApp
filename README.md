@@ -25,23 +25,12 @@ NewsApp is a mobile application that brings you the latest news articles from va
 
 The application uses the NewsAPI to fetch news sources and articles. Below are the key API endpoints:
 
-1. **Get News Sources**
-   - **API Key**: Your unique API key from [NewsAPI.org](https://newsapi.org/)
-     - `X-Api-Key`: (Optional) Filter sources by category (e.g., "business", "sports").
-     - `language`: (Optional) Filter sources by language (e.g., "en" for English, "fr" for French).
-     - `country`: (Optional) Filter sources by country (e.g., "us" for the United States, "gb" for Great Britain).
-Example request using Volley in the app:
+1. **How to Set Your API KEY**
+   - Visit [NewsAPI.org](https://newsapi.org/) to register and get your API key. 
+   - Replace "your api key goes here" in the  with your actual API key
 
 ```bash
-   JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(Request.Method.GET, url.toString(),
-        null, listener, error) {
-    @Override
-    public Map<String, String> getHeaders() throws AuthFailureError {
-        Map<String, String> headers = new HashMap<>();
-        headers.put("User-Agent", "News-App");
-        headers.put("X-Api-Key", "your_api_key_here");
-        return headers;
-    }
-};
+
+```
 
 ## Screenshots
